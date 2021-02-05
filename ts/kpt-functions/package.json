@@ -36,7 +36,7 @@
   "devDependencies": {
     "@types/argparse": "^1.0.36",
     "@types/jasmine": "^3.6.2",
-    "@types/js-yaml": "^3.12.5",
+    "@types/js-yaml": "^4.0.0",
     "@types/lodash": "^4.14.166",
     "@types/node": "^12.19.11",
     "@types/rw": "file:@types/rw",
